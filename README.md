@@ -91,7 +91,7 @@ Actual Spam           14            135
 
 **1. Clone the repository**
 ```bash
-git clone https://github.com/YOUR_USERNAME/spam-email-classifier.git
+git clone https://github.com/r1407delhi-dot/spam-email-classifier.git
 cd spam-email-classifier
 ```
 
